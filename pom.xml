@@ -152,7 +152,7 @@
 		<plugin>
 			<groupId>org.codehaus.sonar</groupId>
 			<artifactId>sonar-maven-plugin</artifactId>
-			<version>3.0.3</version>
+			<version>4.6.2</version>
       		</plugin>
             </plugins>
 	
