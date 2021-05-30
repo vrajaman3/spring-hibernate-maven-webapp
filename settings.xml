@@ -3,7 +3,7 @@
     <server>
       <id>releases</id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>manage</password>
     </server>
 </servers>
 </settings>
